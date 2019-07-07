@@ -1,0 +1,18 @@
+.todoDone {
+	text-decoration-line: line-through;
+	font-style: italic;
+	color: gray;
+}
+
+label{
+	margin-right: 30px;
+}
+
+#actionPanel2{
+	padding-top: 10px;
+}
+input{
+}
+.form-group{
+	margin-top: 20px;
+}
